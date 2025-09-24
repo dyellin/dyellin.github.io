@@ -3,24 +3,24 @@
 
 ### Education
 
-B.S.
+B.S. in Film Production, Boston University
 
-Google
+Google Advanced Data Analytics Certificate, 2025
 
-Google again
+UCD Learn SQL for Data Science Specialization, 2025
 
-UCD
+UCD Data Visualization with Tableau Specialization, 2025
 
-UCD again
+Google Data Analytics Certificate, 2025
 
 
 ###Projects
 
-- project 1
-- project 2
-- project 3
+- F.B.I. Hate Crime Analysis
+- TSA Claims Analysis
+- Operating Room Efficiency Study
 
 
 ###Work Experience
 
-20+ years as a video editor
+20+ years as a video editor...
