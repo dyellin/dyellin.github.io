@@ -5,8 +5,11 @@
 B.S.
 
 Google
+
 Google again
+
 UCD
+
 UCD again
 
 ###Projects
