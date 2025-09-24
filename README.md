@@ -2,19 +2,19 @@
 
 Highly skilled professional with over 20 years experience in video editing, collaborating with top tier directors and producers in high-pressure environments. Known for translating creative visions into engaging content and handling diverse projects, both independently and as part of a team. Now transitioning to a data analyst role, bringing a strong attention to detail, problem-solving abilities, and ability to adapt to fast-paced, evolving formats. Eager to leverage my analytical mindset, technical proficiency, and project management experience to deliver valuable insights, meaningful visualizations, and data-driven decisions.
 
+
 ### Education
 
 #### Boston University
-B.S. in Film Production 2003
+B.S. in Film Production, 2003
 
-#### Google Advanced Data Analytics Certificate
-Coursera 2025
-#### Data Visualization with Tableau Specialization
-UC Davis/Coursera 2025
-#### Learn SQL Basics for Data Science Specialization
-UC Davis/Coursera 2025
 #### Google Data Analytics Certificate
-Coursera 2025
+#### Google Advanced Data Analytics Certificate
+Google, 2025
+
+#### Learn SQL Basics for Data Science Specialization
+#### Data Visualization with Tableau Specialization
+UC Davis, 2025
 
 
 ### Skills
@@ -36,7 +36,6 @@ Coursera 2025
 - Video Editing
 - Graphic Design
 - Quality Control
-
 
 
 ### Data Analytics Projects
@@ -62,6 +61,7 @@ Coursera 2025
 - Video Editor, Moving in 2008 and Dean Darling for 19th Floor Productions - NY
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
+
 
 ### Offline Activities
 
