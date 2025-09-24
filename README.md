@@ -49,7 +49,7 @@ Data Visualization with Tableau Specialization
 - Operating Room Efficiency Study
   - Using Google Sheets for data cleaning , SQL for EDA, Tableau for building an interactive dashboard, analyzed and interpreted sample hospital data to identify trends and patterns in operating room usage
 - 120 Years of the Olympics
-  - Running Python, performed data cleaning, EDA, and visualization on Olympic Games data
+  - Running SQL and Python, performed data cleaning, EDA, and visualization on Olympic Games data
   - Tested multiple hypotheses including:
       - Is there an advantage for athletes being from the host country? Do they win more?
       - Does it help or hurt for an athlete to compete in multiple events?
