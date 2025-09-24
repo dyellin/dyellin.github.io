@@ -1,5 +1,5 @@
 title: Dov Yellin
-logo: /assets/img/IMG_0771.JPG
+#logo: /assets/img/IMG_0771.JPG
 description: Data Analyst Portfolio
 #show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
