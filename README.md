@@ -9,10 +9,12 @@ Bachelor of Science in Film Production
 ##### Boston Univeristy, 2003
 
 Google Data Analytics Certificate
+
 Google Advanced Data Analytics Certificate
 ##### Google, 2025
 
 Learn SQL Basics for Data Science Specialization
+
 Data Visualization with Tableau Specialization
 ##### UC Davis, 2025
 
