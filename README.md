@@ -6,17 +6,17 @@ Highly skilled professional with over 20 years experience in video editing, coll
 ### Education
 
 Bachelor of Science in Film Production
-##### Boston Univeristy, 2003
+*Boston Univeristy, 2003*
 
 Google Data Analytics Certificate
 
 Google Advanced Data Analytics Certificate
-##### Google, 2025
+*Google, 2025*
 
 Learn SQL Basics for Data Science Specialization
 
 Data Visualization with Tableau Specialization
-##### UC Davis, 2025
+*UC Davis, 2025*
 
 
 ### Skills
@@ -58,15 +58,15 @@ Data Visualization with Tableau Specialization
 
 ### Video Editing Career Highlights
 
-- Video Editor, Rachael Ray for CBS - NY
+- Video Editor, **Rachael Ray** for **CBS - NY**
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
   - Maintained meticulous attention to detail, ensuring high-quality deliverables.
   - Collaborated with teams to produce compelling video content.
-- Video Editor, XQ Institute for House-17 - NH
+- Video Editor, **XQ Institute** for **House-17 - NH**
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
-- Video Editor, Moving in 2008 and Dean Darling for 19th Floor Productions - NY
+- Video Editor, **Moving in 2008** and **Dean Darling** for **19th Floor Productions - NY**
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
 
