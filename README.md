@@ -1,6 +1,7 @@
 # data analyst
 
 ### Education
+
 B.S.
 
 Google
@@ -9,9 +10,11 @@ UCD
 UCD again
 
 ###Projects
+
 - project 1
 - project 2
 - project 3
 
 ###Work Experience
+
 20+ years as a video editor
