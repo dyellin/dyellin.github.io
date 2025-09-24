@@ -14,13 +14,13 @@ UCD Data Visualization with Tableau Specialization, 2025
 Google Data Analytics Certificate, 2025
 
 
-###Projects
+### Projects
 
 - F.B.I. Hate Crime Analysis
 - TSA Claims Analysis
 - Operating Room Efficiency Study
 
 
-###Work Experience
+### Work Experience
 
 20+ years as a video editor...
