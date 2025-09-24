@@ -4,7 +4,7 @@ Highly skilled professional with over 20 years experience in video editing, coll
 
 ### Education
 
-Boston University
+# Boston University
 B.S. in Film Production 2003
 
 Google Advanced Data Analytics Certificate
