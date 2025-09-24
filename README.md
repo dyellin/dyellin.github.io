@@ -5,15 +5,15 @@ Highly skilled professional with over 20 years experience in video editing, coll
 
 ### Education
 
-#### Boston University
-B.S. in Film Production, 2003
+##### Bachelor of Science in Film Production
+Boston Univeristy, 2003
 
-#### Google Data Analytics Certificate
-#### Google Advanced Data Analytics Certificate
+##### Google Data Analytics Certificate
+##### Google Advanced Data Analytics Certificate
 Google, 2025
 
-#### Learn SQL Basics for Data Science Specialization
-#### Data Visualization with Tableau Specialization
+##### Learn SQL Basics for Data Science Specialization
+##### Data Visualization with Tableau Specialization
 UC Davis, 2025
 
 
