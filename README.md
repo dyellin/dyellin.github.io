@@ -1,5 +1,6 @@
 # data analyst
 
+
 ### Education
 
 B.S.
@@ -12,11 +13,13 @@ UCD
 
 UCD again
 
+
 ###Projects
 
 - project 1
 - project 2
 - project 3
+
 
 ###Work Experience
 
