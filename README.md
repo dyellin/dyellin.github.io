@@ -1,25 +1,24 @@
 # Data Analyst
 
+### About
+
 Highly skilled professional with over 20 years experience in video editing, collaborating with top tier directors and producers in high-pressure environments. Known for translating creative visions into engaging content and handling diverse projects, both independently and as part of a team. Now transitioning to a data analyst role, bringing a strong attention to detail, problem-solving abilities, and ability to adapt to fast-paced, evolving formats. Eager to leverage my analytical mindset, technical proficiency, and project management experience to deliver valuable insights, meaningful visualizations, and data-driven decisions.
 
 
 ### Education
 
-Bachelor of Science in Film Production
+Boston Univeristy: Bachelor of Science in Film Production, 1999-2003
 
-*Boston Univeristy, 2003*
 
-Google Data Analytics Certificate
+### Certificates
 
-Google Advanced Data Analytics Certificate
+[Google Data Analytics Certificate](https://coursera.org/share/149db17797d6fda7ad82504af3c03235) (2025) (Google - Coursera)
 
-*Google, 2025*
+[Google Advanced Data Analytics Certificate](https://coursera.org/share/6dde2341a0726f5dd240268e032754b5) (2025) (Google - Coursera)
 
-Learn SQL Basics for Data Science Specialization
+[Learn SQL Basics for Data Science Specialization](https://coursera.org/share/fa38c86c1fbecc2e205984019382a9f9) (2025) (University of California, Davis - Coursera)
 
-Data Visualization with Tableau Specialization
-
-*UC Davis, 2025*
+[Data Visualization with Tableau Specialization](https://coursera.org/share/de559f93cfbf8a2077cda9b93aed8a08) (2025) (University of California, Davis - Coursera)
 
 
 ### Skills
@@ -46,20 +45,37 @@ Data Visualization with Tableau Specialization
 ### Data Analytics Projects
 
 - FBI Hate Crime Analysis
-  - Currently analyzing FBI data on hate crimes spanning 1991-2023 using **SQL** for data cleaning and EDA, and **Tableau** for visualization
+Dataset: [FBI Hate Crimes 1991-2023]()
+Goal: Discover trends and/or correlations between the offenders, the offenses, and when they occured.
+Tools: SQL, Tableau
+Code: 
+Visualizations: 
+
 - TSA Claims Analysis
-  - Using **Excel** for data cleaning and EDA, **Tableau** for creating an interactive dashboard, analyzed TSA claims spanning 2000-2015 to facilitate improvements in efficiency and financial outcomes
+Dataset: [TSA Claims 2000-2015]()
+Goal: Identifiy patterns that can improve efficiency and financial solvency.
+Tools: Excel, Tableau
+Code: 
+Visualizations: 
+
 - Operating Room Efficiency Study
-  - Using **Google Sheets** for data cleaning , **SQL** for EDA, **Tableau** for building an interactive dashboard, analyzed and interpreted sample hospital data to identify trends and patterns in operating room usage
+Dataset: [2022_Q1_OR_Utilization.csv](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization)
+Goal: Find operating room scheduling inefficiences and any root causes.
+Tools: Google Sheets, SQL, Tableau
+Code: [Operating Room Utilization Analysis](OR_Utilization_Analysis_Rev.sql)
+Visualizations: [Operating Room Utilization Dashboard](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 - 120 Years of the Olympics
-  - Running **SQL** and **Python**, performed data cleaning, EDA, and visualization on Olympic Games data
-  - Tested multiple hypotheses including:
-      - Is there an advantage for athletes being from the host country? Do they win more?
-      - Does it help or hurt for an athlete to compete in multiple events?
-      - Is there a correlation between physical attributes and winning medals?
+Dataset: 
+Goal: Test hypotheses of whether (1) there is an advantage for athletes being from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals.
+Tools: SQL, Python
+Code: 
+Visualizations: 
 
 
 ### Video Editing Career Highlights
+
+[Video Editing Portfolio](https://www.dovyellin.com)
 
 - Video Editor, **Rachael Ray** for *CBS - NY*
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
@@ -80,3 +96,9 @@ Data Visualization with Tableau Specialization
 - 3+ yrs. on Board of Directors & 2+ yrs. Membership Committee Co-Chair at our house of worship
 - Intermediate drummer
 - Decent photographer
+
+
+### Contact
+
+- Email:
+- LinkedIn: 
