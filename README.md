@@ -6,16 +6,19 @@ Highly skilled professional with over 20 years experience in video editing, coll
 ### Education
 
 Bachelor of Science in Film Production
+
 *Boston Univeristy, 2003*
 
 Google Data Analytics Certificate
 
 Google Advanced Data Analytics Certificate
+
 *Google, 2025*
 
 Learn SQL Basics for Data Science Specialization
 
 Data Visualization with Tableau Specialization
+
 *UC Davis, 2025*
 
 
@@ -43,13 +46,13 @@ Data Visualization with Tableau Specialization
 ### Data Analytics Projects
 
 - FBI Hate Crime Analysis
-  - Currently analyzing FBI data on hate crimes spanning 1991-2023 using SQL for data cleaning and EDA, and Tableau for visualization
+  - Currently analyzing FBI data on hate crimes spanning 1991-2023 using **SQL** for data cleaning and EDA, and **Tableau** for visualization
 - TSA Claims Analysis
-  - Using Excel for data cleaning and EDA, Tableau for creating an interactive dashboard, analyzed TSA claims spanning 2000-2015 to facilitate improvements in efficiency and financial outcomes
+  - Using **Excel** for data cleaning and EDA, **Tableau** for creating an interactive dashboard, analyzed TSA claims spanning 2000-2015 to facilitate improvements in efficiency and financial outcomes
 - Operating Room Efficiency Study
-  - Using Google Sheets for data cleaning , SQL for EDA, Tableau for building an interactive dashboard, analyzed and interpreted sample hospital data to identify trends and patterns in operating room usage
+  - Using **Google Sheets** for data cleaning , **SQL** for EDA, **Tableau** for building an interactive dashboard, analyzed and interpreted sample hospital data to identify trends and patterns in operating room usage
 - 120 Years of the Olympics
-  - Running SQL and Python, performed data cleaning, EDA, and visualization on Olympic Games data
+  - Running **SQL** and **Python**, performed data cleaning, EDA, and visualization on Olympic Games data
   - Tested multiple hypotheses including:
       - Is there an advantage for athletes being from the host country? Do they win more?
       - Does it help or hurt for an athlete to compete in multiple events?
@@ -58,15 +61,15 @@ Data Visualization with Tableau Specialization
 
 ### Video Editing Career Highlights
 
-- Video Editor, **Rachael Ray** for **CBS - NY**
+- Video Editor, **Rachael Ray** for *CBS - NY*
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
   - Maintained meticulous attention to detail, ensuring high-quality deliverables.
   - Collaborated with teams to produce compelling video content.
-- Video Editor, **XQ Institute** for **House-17 - NH**
+- Video Editor, **XQ Institute** for *House-17 - NH*
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
-- Video Editor, **Moving in 2008** and **Dean Darling** for **19th Floor Productions - NY**
+- Video Editor, **Moving in 2008** and **Dean Darling** for *19th Floor Productions - NY*
   - Managed complex video editing projects, adhering to strict deadlines and client specifications.
   - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
 
