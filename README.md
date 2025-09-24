@@ -42,12 +42,18 @@ Data Visualization with Tableau Specialization
 
 ### Data Analytics Projects
 
-- F.B.I. Hate Crime Analysis
+- FBI Hate Crime Analysis
   - Currently analyzing FBI data on hate crimes spanning 1991-2023 using SQL for data cleaning and EDA, and Tableau for visualization
 - TSA Claims Analysis
   - Using Excel for data cleaning and EDA, Tableau for creating an interactive dashboard, analyzed TSA claims spanning 2000-2015 to facilitate improvements in efficiency and financial outcomes
 - Operating Room Efficiency Study
   - Using Google Sheets for data cleaning , SQL for EDA, Tableau for building an interactive dashboard, analyzed and interpreted sample hospital data to identify trends and patterns in operating room usage
+- 120 Years of the Olympics
+  - Running Python, performed data cleaning, EDA, and visualization on Olympic Games data
+  - Tested multiple hypotheses including:
+      - Is there an advantage for athletes being from the host country? Do they win more?
+      - Does it help or hurt for an athlete to compete in multiple events?
+      - Is there a correlation between physical attributes and winning medals?
 
 
 ### Video Editing Career Highlights
