@@ -3,8 +3,10 @@
 
 ### About
 
-Highly skilled professional with over 20 years experience in video editing, collaborating with top tier directors and producers in high-pressure environments. Known for translating creative visions into engaging content and handling diverse projects, both independently and as part of a team. Now transitioning to a data analyst role, bringing a strong attention to detail, problem-solving abilities, and ability to adapt to fast-paced, evolving formats. Eager to leverage my analytical mindset, technical proficiency, and project management experience to deliver valuable insights, meaningful visualizations, and data-driven decisions.
+Highly skilled professional transitioning from a 20-year career in video editing to a Data Analyst role. Known for translating creative visions into engaging content, handling diverse projects honed a strong analytical mindset, exceptional attention to detail, and sharp problem-solving abilities - essential for turning complex data into clear, actionable insights. Eager to leverage technical expertise and project management skills to deliver meaningful visualizations, and data-driven decisions.
 
+
+[Resume PDF]()
 
 
 ### Education
@@ -88,13 +90,11 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
   
   Dataset: [120 Years of Olympic History](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-  Goal: Test hypotheses of whether (1) there is an advantage for athletes from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals.
+  Goal: For the Learn SQL Basics for Data Science Certification, test hypotheses of whether (1) there is an advantage for athletes from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals.
 
   Tools: SQL, Python
 
-  Code: 
-
-  Visualizations: 
+  Code: [Phase 1](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/C3_M1_SportsStats%20Olympics%20120%20Years.pdf), [Phase 2](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/C3_M2_SportsStats%20Desc%20Stats.pdf), [Phase 3](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/C3_M3%20SportsStats%20Beyond%20Desc%20Stats.pdf)
 
 
 
