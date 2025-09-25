@@ -107,28 +107,26 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 
 
-### Video Editing Career Highlights
+### Video Editor Highlights
 
 [Video Editing Portfolio](https://www.dovyellin.com)
 
-- Video Editor, **Rachael Ray** for *CBS - NY*
-  - Managed complex video editing projects, adhering to strict deadlines and client specifications.
-  - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
-  - Maintained meticulous attention to detail, ensuring high-quality deliverables.
-  - Collaborated with teams to produce compelling video content.
-- Video Editor, **XQ Institute** for *House-17 - NH*
-  - Managed complex video editing projects, adhering to strict deadlines and client specifications.
-  - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
-- Video Editor, **Moving in 2008** and **Dean Darling** for *19th Floor Productions - NY*
-  - Managed complex video editing projects, adhering to strict deadlines and client specifications.
-  - Demonstrated strong problem-solving skills in resolving technical and creative challenges.
+- Rachael Ray for CBS
+  - Promoted from Assistant Editor to Editor after 3 seasons
+  - Over 6 seasons on the show, edited and helped deliver over 1,000 episodes
+  - Our team of editors and producers delivered a show every day
+- Moving in 2008 and Dean Darling feature films for 19th Floor Productions
+- People/EW Network Streaming Series & Shorts for Time
+- International Champions Cup Branded Content for Vaynermedia
+- *Plus: Award-winning short films, many more hours of television, and compelling ad content*
+- *Visit my video editing site for more info*
 
 
 
 ### Offline Activities
 
 - Little Harbour School PTA: Treasurer for 3 years, Board Member for 5 years
-- Temple Israel of Portsmouth: Memvbership Committee Co-Chair for 2+ years, Board Member for 3+ years (ongoing)
+- Temple Israel of Portsmouth: Membership Committee Co-Chair for 2+ years, Board Member for 3+ years (ongoing)
 - Master of Tempo & Teamwork (aka Drummer)
 - Photographer: Street, Documentary, Land/Sea-scape
 
