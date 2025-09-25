@@ -1,6 +1,7 @@
 # Data Analyst
 
 
+
 ### About
 
 Highly skilled professional transitioning from a 20-year career in video editing to a Data Analyst role. Known for translating creative visions into engaging content, handling diverse projects honed a strong analytical mindset, exceptional attention to detail, and sharp problem-solving abilities - essential for turning complex data into clear, actionable insights. Eager to leverage technical expertise and project management skills to deliver meaningful visualizations, and data-driven decisions.
@@ -10,6 +11,8 @@ Highly skilled professional transitioning from a 20-year career in video editing
 
 [Tableau Portfolio](https://public.tableau.com/app/profile/dov.yellin/vizzes)
 
+
+
 ### Education
 
 Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
@@ -17,13 +20,13 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 ### Certificates
 
-[Google Data Analytics Certificate](https://coursera.org/share/149db17797d6fda7ad82504af3c03235) (2025) (Google - Coursera)
+[Google Data Analytics Certificate](https://coursera.org/share/149db17797d6fda7ad82504af3c03235) 2025 (Google - Coursera)
 
-[Google Advanced Data Analytics Certificate](https://coursera.org/share/6dde2341a0726f5dd240268e032754b5) (2025) (Google - Coursera)
+[Google Advanced Data Analytics Certificate](https://coursera.org/share/6dde2341a0726f5dd240268e032754b5) 2025 (Google - Coursera)
 
-[Learn SQL Basics for Data Science Specialization](https://coursera.org/share/fa38c86c1fbecc2e205984019382a9f9) (2025) (University of California, Davis - Coursera)
+[Learn SQL Basics for Data Science Specialization](https://coursera.org/share/fa38c86c1fbecc2e205984019382a9f9) 2025 (University of California, Davis - Coursera)
 
-[Data Visualization with Tableau Specialization](https://coursera.org/share/de559f93cfbf8a2077cda9b93aed8a08) (2025) (University of California, Davis - Coursera)
+[Data Visualization with Tableau Specialization](https://coursera.org/share/de559f93cfbf8a2077cda9b93aed8a08) 2025 (University of California, Davis - Coursera)
 
 
 
@@ -124,14 +127,15 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 ### Offline Activities
 
-- 5 yrs. on elementary school PTA Board, inc. 3 yrs. as Treasurer
-- 3+ yrs. on Board of Directors & 2+ yrs. Membership Committee Co-Chair at our house of worship
-- Intermediate drummer
-- Decent photographer
+- Little Harbour School PTA: Treasurer for 3 years, Board Member for 5 years
+- Temple Israel of Portsmouth: Memvbership Committee Co-Chair for 2+ years, Board Member for 3+ years (ongoing)
+- Master of Tempo & Teamwork (aka Drummer)
+- Photographer: Street, Documentary, Land/Sea-scape
 
 
 
 ### Contact
 
-- Email: [dyellin13@gmail.com](dyellin13@gmail.com)
+- Email: [dyellin13@gmail.com](mailto:dyellin13@gmail.com)
 - LinkedIn: [@dovyellin](https://www.linkedin.com/in/dovyellin/)
+- Video Editing Portfolio: [dovyellin.com](https://www.dovyellin.com)
