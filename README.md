@@ -36,6 +36,8 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 - Coding: SQL, Python (Pandas, Numpy), R
 - Visualization: Tableau, Looker
 - Advanced proficiency in the Adobe Creative Suite
+- Visual Design
+- Video Editing
   
 - Strong analytical and problem-solving skills
 - Excellent communication skills
@@ -46,10 +48,6 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 - Machine Learning
 - Regression Analysis
 - Statistical Hypothesis Testing
-- Data storytelling
-  
-- Video Editing
-- Visual Design
 
 
 
