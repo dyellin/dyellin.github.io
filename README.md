@@ -113,7 +113,7 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 - Rachael Ray for CBS
   - Promoted from Assistant Editor to Editor after 3 seasons
-  - Over 6 seasons on the show, edited and helped deliver over 1,000 episodes
+  - During 6 seasons on the show, edited and helped deliver over 1,000 episodes
   - Our team of editors and producers delivered a show every day
 - Moving in 2008 and Dean Darling feature films for 19th Floor Productions
 - People/EW Network Streaming Series & Shorts for Time
