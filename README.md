@@ -8,6 +8,7 @@ Highly skilled professional transitioning from a 20-year career in video editing
 
 [Resume PDF]()
 
+[Tableau Portfolio](https://public.tableau.com/app/profile/dov.yellin/vizzes)
 
 ### Education
 
@@ -28,23 +29,22 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 ### Skills
 
-- Proficiency in SQL, Python, and R
-- Experience with data visualization tools such as Tableau
-- Excel/Google Sheets
+- Speadsheets: Excel, Google Sheets
+- Coding: SQL, Python, R
+- Visualization: Tableau, Looker
 - Strong analytical and problem-solving skills
 - Excellent communication skills
+- EDA
+- Project management and team collaboration
 - Jupyter Notebooks
 - Big Query
 - Machine Learning
 - Predictive Models
 - Regression Models
 - Statistical Analysis
-- EDA
-- Experience in project management and team collaboration
 - Advanced proficiency in the Adobe Creative Suite
 - Video Editing
 - Graphic Design
-- Quality Control
 
 
 
