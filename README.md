@@ -52,43 +52,49 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
 - **FBI Hate Crime Analysis**
   
-  Dataset: [FBI Crime Data Explorer - Hate Crime in the United States](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime)
+  Data Source: [FBI Crime Data Explorer - Hate Crime in the United States](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime)
+
+  Dataset (Clean): [Hate Crime](https://github.com/dyellin/FBI-Hate-Crime-repo/blob/178d9c5e2e670ee807cd495b4d04c7d91e466a00/hatecrime_cleaner.xlsx)
 
   Goal: Discover trends and/or correlations between the offenders, the offenses, and when they occured.
 
   Tools: SQL, Tableau
 
-  Code: 
+  Code: [SQL Script](https://github.com/dyellin/FBI-Hate-Crime-repo/blob/178d9c5e2e670ee807cd495b4d04c7d91e466a00/FBI_Hate_Crime_Script.sql)
 
-  Visualizations: 
+  Visualizations: *Coming Soon*
 
 - **TSA Claims Analysis**
   
-  Dataset: [TSA Claims Database](https://www.kaggle.com/datasets/terminal-security-agency/tsa-claims-database)
+  Data Source: [TSA Claims Database](https://www.kaggle.com/datasets/terminal-security-agency/tsa-claims-database)
+
+  Dataset (Clean): [TSA Claims](https://github.com/dyellin/TSA-Claims-repo/blob/0ea27404a2897e5723f5f2dc89fd0af2113ccc84/tsa_claims_clean.csv)
 
   Goal: Identifiy claim patterns that can improve efficiency and financial solvency.
 
   Tools: Excel, Tableau
 
-  Code: 
-
   Visualizations: [TSA Claims 2000-2015 Dashboard](https://public.tableau.com/views/TSAClaims2000-2015/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **Operating Room Efficiency Study**
   
-  Dataset: [2022_Q1_OR_Utilization.csv](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization)
+  Data Source: [2022_Q1_OR_Utilization.csv](https://www.kaggle.com/datasets/thedevastator/optimizing-operating-room-utilization)
+
+  Dataset (Clean): [OR Utilization Q1](q1_or_utilization_clean.csv)
 
   Goal: Find operating room scheduling inefficiences and any root causes.
 
   Tools: Google Sheets, SQL, Tableau
 
-  Code: [Operating Room Utilization Analysis](https://github.com/dyellin/OR-Utilization-repo/blob/1452d52bbf76f62c8198f9fed7fc0bf4617f68cc/OR_Utilization_Analysis_Rev.sql)
+  Code: [SQL Script](https://github.com/dyellin/OR-Utilization-repo/blob/1452d52bbf76f62c8198f9fed7fc0bf4617f68cc/OR_Utilization_Analysis_Rev.sql)
 
   Visualizations: [Operating Room Utilization Dashboard](https://public.tableau.com/views/OR_Utilization_17410373563560/OperatingRoomUtilization?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **120 Years of the Olympics**
   
-  Dataset: [120 Years of Olympic History](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+  Data Source: [120 Years of Olympic History](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
+  Datasets: [Athlete Events](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/athlete_events.csv), [Host NOC](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/host_noc.csv), [NOC Regions](https://github.com/dyellin/Olympics-120-repo/blob/63f4e5ce1eb1d9a54e2c0fb8a73559097ff1a08c/noc_regions.csv)
 
   Goal: For the Learn SQL Basics for Data Science Certification, test hypotheses of whether (1) there is an advantage for athletes from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals.
 
