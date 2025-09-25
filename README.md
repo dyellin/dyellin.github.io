@@ -33,21 +33,20 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 ### Skills
 
 - Speadsheets: Excel, Google Sheets
-- Coding: SQL, Python, R
+- Coding: SQL, Python (Pandas, Numpy), R
 - Visualization: Tableau, Looker
 - Strong analytical and problem-solving skills
 - Excellent communication skills
-- EDA
+- Exploratory Analysis
 - Project management and team collaboration
-- Jupyter Notebooks
-- Big Query
+- Descriptive statistics
+- Data storytelling
 - Machine Learning
-- Predictive Models
-- Regression Models
-- Statistical Analysis
+- Regression Analysis
+- Statistical Hypothesis Testing
 - Advanced proficiency in the Adobe Creative Suite
 - Video Editing
-- Graphic Design
+- Visual Design
 
 
 
