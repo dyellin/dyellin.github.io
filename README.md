@@ -38,11 +38,9 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 - Advanced proficiency in the Adobe Creative Suite
 - Visual Design
 - Video Editing
-  
 - Strong analytical and problem-solving skills
 - Excellent communication skills
 - Project management and team collaboration
-  
 - Exploratory Analysis
 - Descriptive statistics
 - Machine Learning
@@ -75,7 +73,9 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
   Goal: Identifiy claim patterns that can improve efficiency and financial solvency.
 
-  Tools: Excel, Tableau
+  Tools: Excel, SQL, Tableau
+
+  Code: [SQL Script](https://github.com/dyellin/TSA-Claims-repo/blob/4ea3c84162ca9fb1760ffd5356f3efb2a180683a/TSA_Claims_2000-2015.sql)
 
   Visualizations: [TSA Claims 2000-2015 Dashboard](https://public.tableau.com/views/TSAClaims2000-2015/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
