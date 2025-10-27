@@ -77,7 +77,8 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
   Code: [SQL Script](https://github.com/dyellin/TSA-Claims-repo/blob/4ea3c84162ca9fb1760ffd5356f3efb2a180683a/TSA_Claims_2000-2015.sql)
 
-  Visualizations: [TSA Claims 2000-2015 Dashboard](https://public.tableau.com/views/TSAClaims2000-2015/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  Visualizations: [TSA Claims 2000-2015 Dashboard](https://public.tableau.com/views/TSAClaims2000-2015/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), 
+  [TSA Claims 2000-2015 Story](https://public.tableau.com/views/TSAClaimsOutcomesCostsandTrends/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **Operating Room Efficiency Study**
   
