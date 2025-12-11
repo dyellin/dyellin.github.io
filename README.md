@@ -7,7 +7,7 @@
 Highly skilled professional transitioning from a 20-year career in video editing to a Data Analyst role. Known for translating creative visions into engaging content, handling diverse projects honed a strong analytical mindset, exceptional attention to detail, and sharp problem-solving abilities - essential for turning complex data into clear, actionable insights. Eager to leverage technical expertise and project management skills to deliver meaningful visualizations, and data-driven decisions.
 
 
-[Resume PDF](https://github.com/dyellin/dyellin.github.io/blob/04977c0de500f24969950c1da5a2e363a23124d6/DovYellin_DataAnalyst_2025.pdf)
+[Resume PDF](https://github.com/dyellin/dyellin.github.io/blob/ab4fff337dcad0d24b08e69c5120c80d373fef8a/DovYellin_DataAnalyst_2025.pdf)
 
 [Tableau Portfolio](https://public.tableau.com/app/profile/dov.yellin/vizzes)
 
