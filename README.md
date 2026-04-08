@@ -63,7 +63,7 @@ Boston Univeristy: Bachelor of Science in Film Production (1999-2003)
 
   Code: [SQL Script](https://github.com/dyellin/FBI-Hate-Crime-repo/blob/178d9c5e2e670ee807cd495b4d04c7d91e466a00/FBI_Hate_Crime_Script.sql)
 
-  Visualizations: *Coming Soon*
+  Visualizations: [How National Events Affect Hate Crime Rates](https://public.tableau.com/views/FBI_Hate_Crime_1991-2023_v3/NationalTrends?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **TSA Claims Analysis**
   
